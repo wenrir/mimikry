@@ -1,6 +1,6 @@
 #+title: Support
 
 * Obtain direct support from the project maintainers
-- Open a new issue on github https://github.com/wenrir/mimikry/issues/new and follow the issue guidelines.
+- Open a [[https://github.com/wenrir/mimikry/issues/new][new issue on github]] and follow the issue guidelines.
 - Send an email to ... TODO
-- Open a discussion topic on the discussions page : https://github.com/wenrir/mimikry/discussions/new/choose
+- Open a discussion topic on the [[https://github.com/wenrir/mimikry/discussions/new/choose][discussions page]].
