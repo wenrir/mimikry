@@ -1,0 +1,5 @@
+#+name: Contributing guidelines
+
+Please see the
+[[https://github.com/wenrir/mimikry/wiki/Contributing][Contributing]]
+page on the wiki.
